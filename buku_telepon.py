@@ -15,7 +15,7 @@ class Kontak:
 class AplikasiKontak:
     def __init__(self, root):
         self.root = root
-        self.root.title("Buku Telepon Digital")
+        self.root.title("Buku Telepon Digital Kelompok 48")
         self.root.geometry("450x500")
 
         self.database_kontak = [] # List penyimpanan data
